@@ -1,0 +1,23 @@
+.carousel-inner{
+    margin: auto;
+    width:80%;
+  }
+
+#carousele{
+
+  background-color: #343a40;
+  width: 100%;
+
+}
+
+#box{
+  background-color: #343a40;
+  padding: 50px;
+
+
+}
+
+.darkBg {
+
+  background-color: #343a40;
+}

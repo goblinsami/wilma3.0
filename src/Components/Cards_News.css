@@ -1,0 +1,23 @@
+a {
+
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+
+
+    color: grey;
+    text-decoration: none;
+
+}
+
+a:visited {
+    color:black;
+
+}
+
+.darkBg {
+
+    background-color: #343a40;
+}
